@@ -1,1 +1,1 @@
-# Food-Munch-Responsive-Website
+# Food-Munch (Responsive) Website
